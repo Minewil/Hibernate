@@ -38,7 +38,7 @@
 	  <h1>Example page header <small>Subtext for header</small></h1>
 
 		<div class="container-fluid">
-	 
+	  
 		<div class="row">
 		  <div class="col-md-1">.col-md-1</div>
 		  <div class="col-md-1">.col-md-1</div>
